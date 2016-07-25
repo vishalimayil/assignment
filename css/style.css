@@ -1,18 +1,17 @@
 
 .b1
 {
-  list-style-type:none;
   overflow:hidden;
   margin-bottom:.5cm;
   margin-right: 4cm;
   padding:0;
   background-color:#EC7979;
   float:right;
-  height:1cm;
-  border-radius: 15px 50px 30px 5px;
+  height:.7cm;
+  border-radius: 20px 20px 20px 20px;
   font-size: 18px;
   width: 100%;
-  margin-top: .5cm;
+  margin-top:.5cm;
   }
 
   li{
@@ -22,61 +21,41 @@
   {
   display:grid;
   color:black;
-  text-align:center;;
+  text-align:left;
    padding:30px 30px;
    text-decoration:none;
-
-
   }
-  .a1{
-
+  .a{
     float:left;
     margin-left: 2cm;
-    font-size: 2.3cm;
-  }
+    font-size: 2cm;
+ }
   .a2{
 
     float: left;
     margin-left: 1cm;
   }
-  .container_12{
-    height:25%;
-    width:70%
-  }
+
   .a3{
     float:left;
     width:40%;
 }
 
-li b{
-  display:list-item;
-  text-align: center;
-  font-style: normal;
-  color:black;
-}
+
 .b3{
   height:6cm;
   margin-bottom:0;
   margin-top:0;
 }
-.footer{
-  font-size: 1cm;
-  font-style: normal;
-}
-h1{
-  font-size: 1cm;
-}
+
 .s1{
   font-size: 2cm;
   margin-top: .5cm;
 }
 .s2{
   font-size: 15px;
-    font-style: italic;
+  font-style: normal;
     margin-top: .5cm;
-}
-body{
-  background-image: url("img_back1.jpg");
 }
 .c1{
   border-radius: 20px;
@@ -89,8 +68,206 @@ body{
 }
 .a1{
   font-style: italic;
-  color: pink;
+  color: black;
 }
 .vd,.v{
   margin-top: 1cm;
+  opacity: .6;
 }
+.vd:hover,.v:hover{
+  opacity: 1;
+}
+.c1{
+  height: 4cm;
+}
+.rv{
+  margin-bottom: 1cm;
+}
+
+
+
+
+.a21{
+  float: right;
+  height:6cm;
+  width:60%;
+  margin-top: 5cm;
+}
+.back{
+ background-repeat:repeat;
+  background-attachment:scroll;
+}
+
+.back{
+  background-image:url("https://dhirajkumarsingh.files.wordpress.com/2012/05/radial-gradient.png");
+}
+.a1{
+float:left;
+margin-top: 2cm;
+font-size: 25px;
+font-family: 'Shadows Into Light', cursive;
+color: black;
+}
+.r1{
+  text-align: center;
+  font-size: 40px;
+  font-family: 'Indie Flower', cursive;
+  color: red;
+  position: fixed;
+  margin-left: 4cm;
+}
+.a31{
+  float:left;
+  margin-top: 2cm;
+  font-size: 25px;
+  font-family: 'Shadows Into Light', cursive;
+  color: black;
+}
+.a51{
+  float: left;
+  text-align: center;
+  margin-top: 3cm;
+  font-size: 30px;
+  font-family: 'Shadows Into Light', cursive;
+}
+.a41{
+  margin-top: 0;
+}
+.a71{
+  margin-top: 1cm;
+
+}
+.a81{
+  margin-top: 1cm;
+}
+.a61{
+  margin-top: 1cm;
+  height: 10cm;
+
+}
+.t1{
+  width:100%;
+  margin-top: 1cm;
+  height: 600;
+}
+.a51{
+  margin-top: 1cm;
+  color:black;
+}
+.a91{
+  margin-top: 1cm;
+}
+.b11
+{
+    margin-top:1cm;
+  margin-right: 1cm;
+  padding:0;
+font-family: 'Indie Flower', cursive;
+  float:right;
+  height:.7cm;
+  border-radius: 20px 20px 20px 20px;
+  font-size: 18px;
+  width:25%;
+}
+ li{
+    float:left;
+  }
+  li a
+  {
+  display:grid;
+  color:black;
+  text-align:left;
+   padding:30px 30px;
+   text-decoration:none;
+  }
+
+
+
+.back1{
+  background-image: url("12.jpg");
+}
+
+
+  .a311{
+    position: relative;
+    top: 2cm;
+    right:6cm;
+    width:1400px;
+  }
+  .r11{
+    font-family: 'Oleo Script', cursive;
+    font-size: 2cm;
+    text-align: right;
+    margin-left: 7cm;
+  }
+  .a111{
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+    margin-top: 0;
+  }
+  .a211{
+    float:left;
+    height:7cm;
+    margin-top: 2cm;
+  }
+  .a411{
+    position: absolute;
+     top: 4cm;
+     left: 10px;
+     width:50%;
+     height:9cm;
+     margin-left: 0;
+     bottom:2cm;
+  }
+  .caption{
+    position: absolute;
+     bottom: 0;
+     left: 70%;
+     font-size: 1.5cm;
+     margin-bottom: 2cm;
+     margin-right: 9cm;
+     font-family: 'Yellowtail', cursive;
+     color: black;
+  }
+  .a811{
+    margin-top: 3cm;
+    height:7cm;
+    width:20%;
+  }
+  .u11{
+    font-size: 1cm;
+    text-align: center;
+    height:1cm;
+    margin-left: 2cm;
+    margin-top: 1cm;
+  }
+
+  .circular{
+    border-radius: 1cm;
+    margin-top: 1cm;
+  }
+  .b111
+  {
+    margin-top:1cm;
+    margin-right: 23cm;
+    padding:0;
+    background-color:white;
+    float:right;
+    height:.7cm;
+    border-radius: 20px 20px 20px 20px;
+    font-size: 18px;
+    width:25%;
+    font-family: 'Indie Flower', cursive;
+    }
+
+    li{
+      float:left;
+    }
+    li a
+    {
+    display:grid;
+    color:black;
+    text-align:left;
+     padding:30px 30px;
+     text-decoration:none;
+    }
